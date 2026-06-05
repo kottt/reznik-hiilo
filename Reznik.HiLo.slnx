@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Reznik.HiLo/Reznik.HiLo.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Reznik.HiLo.Tests/Reznik.HiLo.Tests.csproj" />
+  </Folder>
+</Solution>
